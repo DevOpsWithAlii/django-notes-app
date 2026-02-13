@@ -6,6 +6,21 @@ This is a simple notes app built with React and Django.
 2. Node.js
 3. React
 
+
+## 📊 Monitoring & Observability (Grafana + Prometheus)
+
+The project includes a complete monitoring setup using **Prometheus, Grafana, cAdvisor, Node Exporter, and MySQL Exporter** to visualize application, container, and database metrics.
+
+### 🔹 Docker & Container Monitoring
+![Container Monitoring](https://github.com/DevOpsWithAlii/django-notes-app/blob/main/staticfiles/media/Screenshot%20(352).png)
+
+### 🔹 Prometheus  Monitoring
+![Prometheus Monitoring](https://github.com/DevOpsWithAlii/django-notes-app/blob/main/staticfiles/media/Screenshot%20(353).png)
+
+### 🔹 cADvisor monitoring
+![cADvisor Monitoring](https://github.com/DevOpsWithAlii/django-notes-app/blob/main/staticfiles/media/Screenshot%20(354).png)
+
+
 ## Installation.
 1. Clone the repository
 ```
